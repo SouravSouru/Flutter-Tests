@@ -1,16 +1,12 @@
 # flutter_test_lab
 
-A new Flutter project.
+# Flutter Testing Examples
 
-## Getting Started
+This repository provides examples of testing in Flutter, covering the three main types of tests:
+- **Unit Tests**
+- **Widget Tests**
+- **Integration Tests**
 
-This project is a starting point for a Flutter application.
+Each test example demonstrates best practices for writing effective and maintainable tests in Flutter applications. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
